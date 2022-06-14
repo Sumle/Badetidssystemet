@@ -28,6 +28,8 @@ namespace Badetidssystemet
 
             b2.SletKreds("3");
             Console.WriteLine(b2);
+            Console.WriteLine();
+            Console.WriteLine("Det er alle kredse og badetider." + " Hav en god dag!!");
 
             Console.ReadLine();
         }
